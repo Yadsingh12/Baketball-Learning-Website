@@ -1,0 +1,262 @@
+🔹 Section 1: Physical Attributes (1-10)
+1️⃣ What is your height?
+
+A) Below 5’10” → PG (3), SG (2)
+B) 5’10” - 6’3” → SG (3), SF (2)
+C) 6’4” - 6’8” → SF (3), PF (2)
+D) 6’8” and above → C (3), PF (2)
+2️⃣ What is your wingspan like compared to your height?
+
+A) Shorter than height → PG (3)
+B) About the same → SG (3), SF (2)
+C) Longer than height → PF (3), C (2)
+3️⃣ How would you rate your speed?
+
+A) Extremely fast → PG (3), SG (2)
+B) Quick but not the fastest → SG (3), SF (2)
+C) Decent speed → SF (3), PF (2)
+D) Not fast, but strong → PF (3), C (2)
+4️⃣ How would you rate your agility?
+
+A) Very agile → PG (3), SG (2)
+B) Agile, but not elite → SG (3), SF (2)
+C) Not very agile but strong → PF (3), C (2)
+5️⃣ What is your vertical jump like?
+
+A) High jump, explosive → SG (3), SF (2)
+B) Above average → SF (3), PG (2)
+C) Not great but I use positioning → PF (3), C (2)
+6️⃣ How would you rate your stamina?
+
+A) High energy, can run all game → PG (3), SG (2)
+B) Good stamina → SG (3), SF (2)
+C) Decent stamina, but not for full-court sprinting → PF (3), C (2)
+7️⃣ How strong are you in physical battles?
+
+A) Not strong, rely on speed → PG (3), SG (2)
+B) Decent strength, can hold my own → SF (3), SG (2)
+C) Strong, love contact → PF (3), C (2)
+8️⃣ Can you absorb contact and finish strong?
+
+A) Avoid contact → PG (3), SG (2)
+B) Take some contact but avoid unnecessary battles → SF (3), SG (2)
+C) Love playing through contact → PF (3), C (2)
+9️⃣ Do you rely on strength or finesse to score?
+
+A) Finesse → PG (3), SG (2)
+B) Mix of both → SF (3), SG (2)
+C) Strength → PF (3), C (2)
+🔟 How do you handle physical defense?
+
+A) Avoid and rely on quickness → PG (3), SG (2)
+B) Can fight through it when needed → SF (3), SG (2)
+C) Love fighting in the paint → PF (3), C (2)
+
+🏀 Section 2: Skills & Playstyle (11-25)
+🔹 Ball Handling
+1️⃣1️⃣ Are you comfortable dribbling under pressure?
+
+A) Yes, I can handle full-court pressure → PG (3), SG (2)
+B) Somewhat, but I prefer passing quickly → SG (3), SF (2)
+C) Not really, I don't dribble much → PF (3), C (2)
+1️⃣2️⃣ Can you break down defenders off the dribble?
+
+A) Yes, I create my own shot → PG (3), SG (2)
+B) Sometimes, but I prefer team play → SG (3), SF (2)
+C) Not really, I score in the paint → PF (3), C (2)
+1️⃣3️⃣ Do you use hesitation, crossover, and spin moves effectively?
+
+A) Yes, I use them to create space → PG (3), SG (2)
+B) Sometimes, but I don’t rely on them → SG (3), SF (2)
+C) Rarely, I play a different style → PF (3), C (2)
+🔹 Passing
+1️⃣4️⃣ Are you a natural at creating plays for teammates?
+
+A) Yes, I control the offense → PG (3), SG (2)
+B) Somewhat, but I prefer scoring → SG (3), SF (2)
+C) No, I focus on rebounding/scoring → PF (3), C (2)
+1️⃣5️⃣ Do you enjoy throwing lobs and leading fast breaks?
+
+A) Yes, I love transition plays → PG (3), SG (2)
+B) I participate, but don’t lead → SG (3), SF (2)
+C) I don’t play that way → PF (3), C (2)
+1️⃣6️⃣ Can you make quick decisions while passing?
+
+A) Yes, I react fast and make the right pass → PG (3), SG (2)
+B) Sometimes, but I focus on shooting more → SG (3), SF (2)
+C) I don’t handle the ball much → PF (3), C (2)
+🔹 Shooting
+1️⃣7️⃣ How is your three-point shooting?
+
+A) Excellent → SG (3), PG (2)
+B) Decent, but not my strength → SF (3), SG (2)
+C) I mostly score inside → PF (3), C (2)
+1️⃣8️⃣ Can you shoot well off the dribble?
+
+A) Yes, I can create my own shot → SG (3), PG (2)
+B) Only when open → SF (3), SG (2)
+C) No, I score in other ways → PF (3), C (2)
+1️⃣9️⃣ Do you feel comfortable shooting contested shots?
+
+A) Yes, I take tough shots often → SG (3), PG (2)
+B) Sometimes, but I prefer open looks → SF (3), SG (2)
+C) No, I play inside → PF (3), C (2)
+🔹 Finishing at the Rim
+2️⃣0️⃣ Can you finish layups with both hands?
+
+A) Yes, I have great touch around the basket → SG (3), PG (2)
+B) Somewhat, but I avoid weak-hand finishes → SF (3), SG (2)
+C) I rely on strength instead of finesse → PF (3), C (2)
+2️⃣1️⃣ Do you use spin or floaters in the lane?
+
+A) Yes, I use them often → PG (3), SG (2)
+B) Occasionally → SG (3), SF (2)
+C) No, I finish strong in the paint → PF (3), C (2)
+2️⃣2️⃣ Can you dunk, or finish through contact?
+
+A) Yes, I can finish above the rim → SF (3), PF (2)
+B) I finish through contact but don’t dunk → SG (3), SF (2)
+C) I rely on positioning instead → PF (3), C (2)
+🔹 Defense
+2️⃣3️⃣ Do you pressure ball handlers effectively?
+
+A) Yes, I love pressing guards → PG (3), SG (2)
+B) Somewhat, but I focus on team defense → SG (3), SF (2)
+C) No, I protect the paint → PF (3), C (2)
+2️⃣4️⃣ Can you block shots consistently?
+
+A) Yes, I am a rim protector → C (3), PF (2)
+B) Sometimes, but not my role → SF (3), SG (2)
+C) No, I defend in other ways → PG (3), SG (2)
+2️⃣5️⃣ Are you better at perimeter or paint defense?
+
+A) Perimeter → PG (3), SG (2)
+B) Versatile, can guard multiple positions → SF (3), SG (2)
+C) Paint → PF (3), C (2)
+🏀 Section 3: Game IQ & Leadership (26-35)
+2️⃣6️⃣ Do you prefer running the offense or scoring?
+
+A) Running the offense → PG (3), SF (2)
+B) Scoring → SG (3), PF (2)
+C) Playing a supportive role → PF (3), C (2)
+2️⃣7️⃣ Can you read defensive setups and adjust?
+
+A) Yes, I analyze defenses constantly → PG (3), SF (2)
+B) I recognize some patterns → SG (3), SF (2)
+C) I focus more on my own game → PF (3), C (2)
+2️⃣8️⃣ Are you vocal and lead your teammates?
+
+A) Yes, I direct teammates constantly → PG (3), SF (2)
+B) Occasionally, but not my main role → SG (3), PF (2)
+C) I lead more by example → PF (3), C (2)
+2️⃣9️⃣ How well do you recognize double teams?
+
+A) Quickly, and I pass out efficiently → PG (3), SF (2)
+B) Sometimes, but I don’t always react well → SG (3), PF (2)
+C) I struggle when doubled → PF (3), C (2)
+3️⃣0️⃣ Do you enjoy setting screens and doing little things?
+
+A) Yes, I love setting up my teammates → PF (3), C (2)
+B) I do it when needed → SF (3), SG (2)
+C) No, I focus on scoring → PG (3), SG (2)
+3️⃣1️⃣ Are you patient with the ball under pressure?
+
+A) Yes, I stay calm and make smart decisions → PG (3), SF (2)
+B) Somewhat, but I rush sometimes → SG (3), PF (2)
+C) I avoid handling under pressure → PF (3), C (2)
+3️⃣2️⃣ Do you control the tempo of the game?
+
+A) Yes, I dictate the pace → PG (3), SF (2)
+B) I adjust, but don’t control it → SG (3), PF (2)
+C) I follow the game’s flow → PF (3), C (2)
+3️⃣3️⃣ Can you anticipate rebounds and box out properly?
+
+A) Yes, I time my jumps and position well → C (3), PF (2)
+B) Sometimes, but I focus more on offense → SF (3), SG (2)
+C) I don't focus much on rebounding → PG (3), SG (2)
+3️⃣4️⃣ Do you call plays and direct teammates?
+
+A) Yes, I love controlling the game → PG (3), SF (2)
+B) Sometimes, but I let others lead → SG (3), PF (2)
+C) No, I focus on executing plays → PF (3), C (2)
+3️⃣5️⃣ Do you think about defensive schemes while playing?
+
+A) Yes, I adjust based on the opponent’s offense → PG (3), SF (2)
+B) Somewhat, but I rely on instinct more → SG (3), PF (2)
+C) I focus more on my individual defense → PF (3), C (2)
+🏀 Section 4: Personal Preferences & Mentality (36-50)
+3️⃣6️⃣ Would you rather score or assist?
+
+A) Assist → PG (3), SF (2)
+B) Score → SG (3), PF (2)
+C) Either, depends on the situation → SF (3), C (2)
+3️⃣7️⃣ Do you enjoy being the primary scorer?
+
+A) Yes, I want the ball → SG (3), PG (2)
+B) I prefer a balanced role → SF (3), PF (2)
+C) No, I focus on rebounding/defense → PF (3), C (2)
+3️⃣8️⃣ Do you like taking the last shot?
+
+A) Yes, I live for the clutch moments → SG (3), PG (2)
+B) If I’m open, I’ll take it → SF (3), PF (2)
+C) I prefer setting up a teammate → PG (3), C (2)
+3️⃣9️⃣ Would you rather play on-ball defense or help defense?
+
+A) On-ball → PG (3), SG (2)
+B) Help defense → SF (3), PF (2)
+C) I focus on rim protection → C (3), PF (2)
+4️⃣0️⃣ Do you prefer playing in fast breaks or half-court sets?
+
+A) Fast breaks → PG (3), SG (2)
+B) A mix of both → SF (3), PF (2)
+C) Half-court sets → C (3), PF (2)
+4️⃣1️⃣ Do you like working in the post?
+
+A) Yes, I’m strong inside → C (3), PF (2)
+B) Occasionally, but not my main focus → SF (3), SG (2)
+C) No, I prefer the perimeter → PG (3), SG (2)
+4️⃣2️⃣ How do you handle pressure situations?
+
+A) I stay calm and take control → PG (3), SF (2)
+B) I manage but feel the pressure → SG (3), PF (2)
+C) I focus on supporting my teammates → PF (3), C (2)
+4️⃣3️⃣ Do you get back on defense quickly?
+
+A) Yes, I always hustle back → PG (3), SG (2)
+B) I try, but sometimes lag → SF (3), PF (2)
+C) Not always, I focus on rebounds → C (3), PF (2)
+4️⃣4️⃣ Do you communicate a lot with your teammates?
+
+A) Yes, I direct the team → PG (3), SF (2)
+B) Sometimes, but not always vocal → SG (3), PF (2)
+C) No, I lead more by actions → PF (3), C (2)
+4️⃣5️⃣ Would you rather guard a smaller, quicker player or a big man?
+
+A) Quick guard → PG (3), SG (2)
+B) A mix of both → SF (3), PF (2)
+C) A big man → C (3), PF (2)
+4️⃣6️⃣ Do you like playing inside the three-point line or outside?
+
+A) Outside → PG (3), SG (2)
+B) Both → SF (3), PF (2)
+C) Inside → C (3), PF (2)
+4️⃣7️⃣ Do you want to be a team’s leader?
+
+A) Yes, I embrace leadership → PG (3), SF (2)
+B) I can lead, but prefer shared leadership → SG (3), PF (2)
+C) No, I focus on my role → PF (3), C (2)
+4️⃣8️⃣ Do you watch game film and study opponents?
+
+A) Yes, I analyze strategies → PG (3), SF (2)
+B) Occasionally, but not deeply → SG (3), PF (2)
+C) No, I rely on my instincts → PF (3), C (2)
+4️⃣9️⃣ Are you more of a flashy or fundamental player?
+
+A) Flashy → PG (3), SG (2)
+B) A mix of both → SF (3), PF (2)
+C) Fundamental → C (3), PF (2)
+5️⃣0️⃣ How do you handle physical and mental adversity in a game?
+
+A) I stay composed and adapt → PG (3), SF (2)
+B) I push through but struggle at times → SG (3), PF (2)
+C) I rely on teammates to help me refocus → PF (3), C (2)
